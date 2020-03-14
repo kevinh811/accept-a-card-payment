@@ -1,4 +1,5 @@
 # Accepting a card payment
+# By Kevin Hundelt
 
 An [Express server](http://expressjs.com) implementation
 
